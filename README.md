@@ -23,4 +23,4 @@ Instructions:
 
 4. Profit.
 
-[Demo application package link]([url](https://github.com/vespa-engine/sample-apps/blob/782080269fe77760b74a2177972f46bf6c340df7/examples/lucene-linguistics/non-java/README.md)https://github.com/vespa-engine/sample-apps/blob/782080269fe77760b74a2177972f46bf6c340df7/examples/lucene-linguistics/non-java/README.md).
+A demo application package can be found [here](https://github.com/vespa-engine/sample-apps/blob/782080269fe77760b74a2177972f46bf6c340df7/examples/lucene-linguistics/non-java/README.md).
