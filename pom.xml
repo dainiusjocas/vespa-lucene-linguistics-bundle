@@ -6,13 +6,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>lt.jocas</groupId>
   <artifactId>lucene-linguistics-bundle</artifactId>
-  <version>0.0.2</version>
+  <version>0.0.3</version>
   <packaging>container-plugin</packaging>
   <properties>
     <bundle-plugin.failOnWarnings>false</bundle-plugin.failOnWarnings>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <test.hide>true</test.hide>
-    <vespa.version>8.227.41</vespa.version>
+    <vespa.version>8.237.19</vespa.version>
   </properties>
 
   <dependencies>
